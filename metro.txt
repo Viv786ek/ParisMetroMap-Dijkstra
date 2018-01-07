@@ -1,0 +1,1311 @@
+376 933
+0000 Abbesses
+0001 Alexandre Dumas
+0002 Alma Marceau
+0003 Alésia
+0004 Anatole France
+0005 Anvers
+0006 Argentine
+0007 Arts et Métiers
+0008 Arts et Métiers
+0009 Assemblée Nationale
+0010 Aubervilliers-Pantin, Quatre Chemins
+0011 Avenue Émile Zola
+0012 Avron
+0013 Barbès Rochechouart
+0014 Barbès Rochechouart
+0015 Basilique de Saint-Denis
+0016 Bastille
+0017 Bastille
+0018 Bastille
+0019 Bel Air
+0020 Belleville
+0021 Belleville
+0022 Bercy
+0023 Bercy
+0024 Bibliothèque François Mitterand
+0025 Billancourt
+0026 Bir-Hakeim
+0027 Blanche
+0028 Bobigny, Pablo Picasso
+0029 Bobigny-Pantin, Raymond Queneau
+0030 Boissière
+0031 Bolivar
+0032 Bonne Nouvelle
+0033 Bonne Nouvelle
+0034 Botzaris
+0035 Boucicaut
+0036 Boulogne, Jean Jaurès
+0037 Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube
+0038 Bourse
+0039 Brochant
+0040 Bréguet-Sabin
+0041 Buttes Chaumont
+0042 Buzenval
+0043 Bérault
+0044 Cadet
+0045 Cambronne
+0046 Campo-Formio
+0047 Cardinal Lemoine
+0048 Carrefour Pleyel
+0049 Censier Daubenton
+0050 Champs Élysées, Clémenceau
+0051 Champs Élysées, Clémenceau
+0052 Chardon Lagâche
+0053 Charenton-Écoles
+0054 Charles Michels
+0055 Charles de Gaulle, Étoile
+0056 Charles de Gaulle, Étoile
+0057 Charles de Gaulle, Étoile
+0058 Charonne
+0059 Chaussée d'Antin, La Fayette
+0060 Chaussée d'Antin, La Fayette
+0061 Chemin Vert
+0062 Chevaleret
+0063 Château Landon
+0064 Château Rouge
+0065 Château d'Eau
+0066 Château de Vincennes
+0067 Châtelet
+0068 Châtelet
+0069 Châtelet
+0070 Châtelet
+0071 Châtelet
+0072 Châtillon-Montrouge
+0073 Cité
+0074 Cluny, La Sorbonne
+0075 Colonel Fabien
+0076 Commerce
+0077 Concorde
+0078 Concorde
+0079 Concorde
+0080 Convention
+0081 Corentin Celton
+0082 Corentin-Cariou
+0083 Corvisart
+0084 Cour Saint-Émilion
+0085 Courcelles
+0086 Couronnes
+0087 Crimée
+0088 Croix de Chavaux
+0089 Créteil-Préfecture
+0090 Créteil-Université
+0091 Créteil-l'Echat, Hôpital Henri Mondor
+0092 Danube
+0093 Daumesnil
+0094 Daumesnil
+0095 Denfert Rochereau
+0096 Denfert Rochereau
+0097 Dugommier
+0098 Dupleix
+0099 Duroc
+0100 Duroc
+0101 Edgar Quinet
+0102 Esplanade de la Défense
+0103 Europe
+0104 Exelmans
+0105 Faidherbe-Chaligny
+0106 Falguière
+0107 Filles du Calvaire
+0108 Fort d'Aubervilliers
+0109 Franklin D. Roosevelt
+0110 Franklin D. Roosevelt
+0111 Félix Faure
+0112 Gabriel Péri, Asnières-Gennevilliers
+0113 Gaité
+0114 Galliéni
+0115 Gambetta
+0116 Gambetta
+0117 Gare d'Austerlitz
+0118 Gare d'Austerlitz
+0119 Gare de Lyon
+0120 Gare de Lyon
+0121 Gare de l'Est
+0122 Gare de l'Est
+0123 Gare de l'Est
+0124 Gare du Nord
+0125 Gare du Nord
+0126 Garibaldi
+0127 George V
+0128 Glacière
+0129 Goncourt
+0130 Grande Arche de la Défense
+0131 Guy Môquet
+0132 Havre Caumartin
+0133 Havre Caumartin
+0134 Hoche
+0135 Hôtel de Ville
+0136 Hôtel de Ville
+0137 Invalides
+0138 Invalides
+0139 Iéna
+0140 Jacques Bonsergent
+0141 Jasmin
+0142 Jaurès
+0143 Jaurès
+0144 Jaurès
+0145 Javel
+0146 Jourdain
+0147 Jules Joffrin
+0148 Jussieu
+0149 Jussieu
+0150 Kléber
+0151 La Chapelle
+0152 La Courneuve, 8 Mai 1945
+0153 La Fourche
+0154 La Motte Picquet, Grenelle
+0155 La Motte Picquet, Grenelle
+0156 La Motte Picquet, Grenelle
+0157 La Muette
+0158 La Tour-Maubourg
+0159 Lamarck Caulaincourt
+0160 Laumière
+0161 Le Kremlin-Bicêtre
+0162 Le Peletier
+0163 Ledru Rollin
+0164 Les Gobelins
+0165 Les Halles
+0166 Les Sablons
+0167 Liberté
+0168 Liège
+0169 Louis Blanc
+0170 Louis Blanc
+0171 Louise Michel
+0172 Lourmel
+0173 Louvre, Rivoli
+0174 Mabillon
+0175 Madeleine
+0176 Madeleine
+0177 Madeleine
+0178 Mairie d'Issy
+0179 Mairie d'Ivry
+0180 Mairie de Clichy
+0181 Mairie de Montreuil
+0182 Mairie de Saint-Ouen
+0183 Mairie des Lilas
+0184 Maison Blanche
+0185 Maisons-Alfort les Juilliottes
+0186 Maisons-Alfort, Stade
+0187 Malakoff-Plateau de Vanves
+0188 Malakoff-Rue Étienne Dolet
+0189 Malesherbes
+0190 Maraîchers
+0191 Marcadet Poissonniers
+0192 Marcadet Poissonniers
+0193 Marcel Sembat
+0194 Marx Dormoy
+0195 Maubert Mutualité
+0196 Michel Ange Auteuil
+0197 Michel Ange Auteuil
+0198 Michel Ange Molitor
+0199 Michel Ange Molitor
+0200 Michel Bizot
+0201 Mirabeau
+0202 Miromesnil
+0203 Miromesnil
+0204 Monceau
+0205 Montgallet
+0206 Montparnasse Bienvenue
+0207 Montparnasse Bienvenue
+0208 Montparnasse Bienvenue
+0209 Montparnasse Bienvenue
+0210 Mouton-Duvernet
+0211 Ménilmontant
+0212 Nation
+0213 Nation
+0214 Nation
+0215 Nation
+0216 Nationale
+0217 Notre Dame de Lorette
+0218 Notre-Dame-des-Champs
+0219 Oberkampf
+0220 Oberkampf
+0221 Odéon
+0222 Odéon
+0223 Opéra
+0224 Opéra
+0225 Opéra
+0226 Ourcq
+0227 Palais Royal, Musée du Louvre
+0228 Palais Royal, Musée du Louvre
+0229 Parmentier
+0230 Passy
+0231 Pasteur
+0232 Pasteur
+0233 Pelleport
+0234 Pernety
+0235 Philippe-Auguste
+0236 Picpus
+0237 Pierre Curie
+0238 Pigalle
+0239 Pigalle
+0240 Place Balard
+0241 Place Monge
+0242 Place d'Italie
+0243 Place d'Italie
+0244 Place d'Italie
+0245 Place de Clichy
+0246 Place de Clichy
+0247 Place des Fêtes
+0248 Place des Fêtes
+0249 Plaisance
+0250 Poissonnière
+0251 Pont de Levallois, Bécon
+0252 Pont de Neuilly
+0253 Pont de Sèvres
+0254 Pont-Marie
+0255 Pont-Neuf
+0256 Porte Dauphine
+0257 Porte Dorée
+0258 Porte Maillot
+0259 Porte d'Auteuil
+0260 Porte d'Italie
+0261 Porte d'Ivry
+0262 Porte d'Orléans
+0263 Porte de Bagnolet
+0264 Porte de Champerret
+0265 Porte de Charenton
+0266 Porte de Choisy
+0267 Porte de Clichy
+0268 Porte de Clignancourt
+0269 Porte de Montreuil
+0270 Porte de Pantin
+0271 Porte de Saint-Cloud
+0272 Porte de Saint-Ouen
+0273 Porte de Vanves
+0274 Porte de Versailles
+0275 Porte de Vincennes
+0276 Porte de la Chapelle
+0277 Porte de la Villette
+0278 Porte des Lilas
+0279 Porte des Lilas
+0280 Pré-Saint-Gervais
+0281 Pyramides
+0282 Pyramides
+0283 Pyrénées
+0284 Père Lachaise
+0285 Père Lachaise
+0286 Péreire
+0287 Quai de la Gare
+0288 Quai de la Rapée
+0289 Quatre Septembre
+0290 Rambuteau
+0291 Ranelagh
+0292 Raspail
+0293 Raspail
+0294 Rennes
+0295 Reuilly Diderot
+0296 Reuilly Diderot
+0297 Richard Lenoir
+0298 Richelieu Drouot
+0299 Richelieu Drouot
+0300 Riquet
+0301 Robespierre
+0302 Rome
+0303 Rue Montmartre, Grands Boulevards
+0304 Rue Montmartre, Grands Boulevards
+0305 Rue Saint-Maur
+0306 Rue de la Pompe
+0307 Rue des Boulets
+0308 Rue du Bac
+0309 Réaumur Sébastopol
+0310 Réaumur Sébastopol
+0311 République
+0312 République
+0313 République
+0314 République
+0315 République
+0316 Saint-Ambroise
+0317 Saint-Augustin
+0318 Saint-Denis-Porte de Paris
+0319 Saint-Denis-Université
+0320 Saint-Fargeau
+0321 Saint-Francois Xavier
+0322 Saint-Georges
+0323 Saint-Germain-des-Prés
+0324 Saint-Jacques
+0325 Saint-Lazare
+0326 Saint-Lazare
+0327 Saint-Lazare
+0328 Saint-Mandé, Tourelle
+0329 Saint-Marcel
+0330 Saint-Michel
+0331 Saint-Paul, Le Marais
+0332 Saint-Philippe du Roule
+0333 Saint-Placide
+0334 Saint-Sulpice
+0335 Saint-Sébastien-Froissart
+0336 Sentier
+0337 Simplon
+0338 Solférino
+0339 Stalingrad
+0340 Stalingrad
+0341 Stalingrad
+0342 Strasbourg Saint-Denis
+0343 Strasbourg Saint-Denis
+0344 Strasbourg Saint-Denis
+0345 Sully Morland
+0346 Sèvres Babylone
+0347 Sèvres Babylone
+0348 Sèvres Lecourbe
+0349 Ségur
+0350 Temple
+0351 Ternes
+0352 Tolbiac
+0353 Trinité d'Estienne d'Orves
+0354 Trocadéro
+0355 Trocadéro
+0356 Tuileries
+0357 Télégraphe
+0358 Vaneau
+0359 Varenne
+0360 Vaugirard
+0361 Vavin
+0362 Victor Hugo
+0363 Villejuif, Louis Aragon
+0364 Villejuif, Léo Lagrange
+0365 Villejuif, P. Vaillant Couturier
+0366 Villiers
+0367 Villiers
+0368 Volontaires
+0369 Voltaire
+0370 Wagram
+0371 École Militaire
+0372 École Vétérinaire de Maisons-Alfort
+0373 Église d'Auteuil
+0374 Église de Pantin
+0375 Étienne Marcel
+$
+0 238 41
+0 159 46
+1 12 36
+1 235 44
+2 110 69
+2 139 50
+3 262 33
+3 210 41
+4 171 43
+4 251 35
+5 13 67
+5 239 54
+6 55 56
+6 258 46
+7 290 39
+7 311 79
+8 350 38
+8 309 58
+9 338 28
+9 78 62
+10 277 42
+10 108 36
+11 154 32
+11 54 41
+12 213 42
+12 1 36
+13 151 57
+13 5 67
+14 124 46
+14 64 28
+15 318 37
+15 319 73
+16 119 98
+16 331 62
+17 288 89
+17 40 41
+18 163 32
+18 61 56
+19 236 31
+19 93 33
+20 129 48
+20 283 38
+21 86 46
+21 75 51
+22 84 39
+22 120 81
+23 97 35
+23 287 57
+24 84 51
+25 193 42
+25 253 35
+26 98 31
+26 230 64
+27 239 64
+27 246 59
+28 29 79
+29 374 46
+374 29 46
+29 28 79
+30 354 24
+30 150 44
+31 41 28
+31 144 36
+32 343 54
+32 303 41
+33 344 52
+33 304 41
+34 248 36
+34 41 57
+35 111 34
+35 172 40
+36 198 105
+36 37 39
+37 36 39
+38 336 35
+38 289 38
+39 153 38
+39 267 46
+40 17 41
+40 297 37
+41 34 57
+41 31 28
+42 190 42
+42 215 35
+43 66 41
+43 328 57
+44 162 54
+44 250 64
+45 348 43
+45 155 35
+46 242 63
+46 329 46
+47 148 46
+47 195 41
+48 182 66
+48 318 60
+49 164 42
+49 241 40
+50 77 54
+50 109 62
+51 137 62
+51 202 69
+52 201 20
+53 372 47
+53 167 33
+54 11 41
+54 145 51
+55 127 60
+55 6 56
+56 351 59
+56 362 75
+57 150 35
+58 307 31
+58 369 31
+59 224 72
+59 162 53
+60 299 63
+60 133 45
+61 18 56
+61 335 28
+62 287 53
+62 216 48
+63 123 44
+63 169 57
+64 14 28
+64 192 57
+65 342 41
+65 121 57
+66 43 41
+67 135 87
+67 173 51
+68 136 85
+69 120 287
+69 281 131
+70 73 45
+70 165 66
+71 254 73
+71 255 37
+72 188 52
+73 330 46
+73 70 45
+74 195 44
+74 221 52
+75 21 51
+75 142 93
+76 156 59
+76 111 30
+77 356 57
+77 50 54
+78 9 62
+78 175 41
+79 177 41
+79 138 71
+80 274 41
+80 360 49
+81 178 43
+81 274 43
+82 87 32
+82 277 47
+83 243 36
+83 128 49
+84 24 51
+84 22 39
+85 204 47
+85 351 46
+86 211 37
+86 21 46
+87 300 43
+87 82 32
+88 181 44
+88 301 47
+89 90 29
+90 89 29
+90 91 26
+91 90 26
+91 185 27
+92 34 37
+93 19 33
+93 97 45
+94 200 27
+94 205 39
+95 210 48
+95 292 37
+96 324 52
+96 293 42
+97 93 45
+97 23 35
+98 155 69
+98 26 31
+99 358 31
+99 349 54
+100 207 113
+100 321 59
+101 293 43
+101 209 36
+102 252 35
+102 130 37
+103 327 44
+103 367 30
+104 199 62
+104 271 40
+105 296 42
+105 163 47
+106 231 29
+106 206 36
+107 335 49
+107 314 49
+108 10 36
+108 152 29
+109 50 62
+109 127 59
+110 332 37
+110 2 69
+111 76 30
+111 35 34
+112 180 71
+113 234 36
+113 207 47
+114 263 72
+115 263 39
+115 285 70
+116 233 50
+117 148 59
+118 329 60
+118 288 30
+119 295 41
+119 16 98
+120 22 81
+120 69 287
+121 65 57
+121 124 67
+122 140 103
+122 125 59
+123 250 51
+123 63 44
+124 121 67
+124 14 46
+125 122 59
+125 340 107
+126 272 37
+126 182 42
+127 109 59
+127 55 60
+128 83 49
+128 324 42
+129 311 49
+129 20 48
+130 102 37
+131 153 72
+131 272 63
+132 223 68
+132 327 40
+133 60 45
+133 317 49
+134 270 47
+134 374 53
+135 331 65
+135 67 87
+136 68 85
+136 290 73
+137 359 54
+137 51 62
+138 79 71
+138 158 57
+139 2 50
+139 355 46
+140 313 47
+140 122 103
+141 291 37
+141 197 49
+142 75 93
+142 339 27
+143 340 29
+143 160 44
+144 31 36
+144 170 46
+145 54 51
+145 373 55
+146 283 33
+146 247 50
+147 159 44
+147 191 49
+148 117 59
+148 47 46
+149 241 57
+149 345 79
+150 30 44
+150 57 35
+151 339 93
+151 13 57
+152 108 29
+153 245 64
+153 131 72
+153 39 38
+154 349 33
+154 11 32
+155 45 35
+155 98 69
+156 371 46
+156 76 59
+157 306 36
+157 291 49
+158 138 57
+158 371 66
+159 0 46
+159 147 44
+160 143 44
+160 226 40
+161 364 28
+161 184 39
+162 59 53
+162 44 54
+163 105 47
+163 18 32
+164 244 60
+164 49 42
+165 70 66
+165 375 33
+166 258 38
+166 252 37
+167 53 33
+167 265 31
+168 326 49
+168 245 28
+169 63 57
+169 341 54
+170 144 46
+171 264 49
+171 4 43
+172 35 40
+172 240 35
+173 67 51
+173 227 34
+174 221 31
+174 346 72
+175 78 41
+175 325 144
+176 281 71
+177 225 88
+177 79 41
+178 81 43
+179 237 37
+180 267 91
+180 112 71
+181 88 44
+182 126 42
+182 48 66
+183 278 51
+184 260 31
+184 161 39
+184 352 36
+185 91 27
+185 186 26
+186 185 26
+186 372 33
+187 188 34
+187 273 46
+188 72 52
+188 187 34
+189 367 49
+189 370 35
+190 269 27
+190 42 42
+191 147 49
+191 194 67
+192 64 57
+192 337 36
+193 271 38
+193 25 42
+194 191 67
+194 276 67
+195 47 41
+195 74 44
+196 259 47
+197 141 49
+197 199 28
+198 52 42
+199 197 28
+199 104 62
+200 257 51
+200 94 27
+201 145 46
+202 51 69
+202 326 112
+203 317 53
+203 332 40
+204 366 51
+204 85 47
+205 94 39
+205 296 38
+206 106 36
+206 218 45
+207 113 47
+207 100 113
+208 361 42
+208 333 48
+209 101 36
+209 232 54
+210 3 41
+210 95 48
+211 284 49
+211 86 37
+212 275 86
+212 295 64
+213 12 42
+214 236 42
+215 42 35
+215 307 60
+216 62 48
+216 243 55
+217 353 29
+217 322 37
+218 206 45
+218 294 38
+219 297 50
+219 313 81
+220 316 35
+220 315 80
+221 74 52
+221 174 31
+222 323 42
+222 330 31
+223 289 43
+223 132 68
+224 282 80
+224 59 72
+225 298 75
+225 177 88
+226 160 40
+226 270 39
+227 173 34
+227 356 38
+228 255 53
+228 282 49
+229 305 43
+229 312 64
+230 26 64
+230 354 62
+231 368 40
+231 106 29
+232 209 54
+232 348 46
+233 320 33
+233 116 50
+234 249 38
+234 113 36
+235 1 44
+235 284 44
+236 214 42
+236 19 31
+237 179 37
+237 261 37
+238 322 27
+238 0 41
+239 5 54
+239 27 64
+240 172 35
+241 49 40
+241 149 57
+242 46 63
+243 216 55
+243 83 36
+244 352 37
+244 164 60
+245 168 28
+245 153 64
+246 27 59
+246 302 37
+247 146 50
+247 357 23
+248 280 57
+249 273 35
+249 234 38
+250 44 64
+250 123 51
+251 4 35
+252 166 37
+252 102 35
+253 25 35
+254 345 75
+254 71 73
+255 71 37
+255 228 53
+256 362 37
+257 265 26
+257 200 51
+258 6 46
+258 166 38
+259 198 47
+259 36 84
+260 266 37
+260 184 31
+261 237 37
+261 266 46
+262 3 33
+263 114 72
+263 115 39
+264 286 41
+264 171 49
+265 167 31
+265 257 26
+266 261 46
+266 260 37
+267 39 46
+267 180 91
+268 337 39
+269 301 35
+269 190 27
+270 226 39
+270 134 47
+271 104 40
+271 193 38
+272 131 63
+272 126 37
+273 187 46
+273 249 35
+274 81 43
+274 80 41
+275 328 41
+275 212 86
+276 194 67
+277 82 47
+277 10 42
+278 357 59
+278 183 51
+279 320 37
+280 92 43
+281 69 131
+281 176 71
+282 228 49
+282 224 80
+283 20 38
+283 146 33
+284 235 44
+284 211 49
+285 115 70
+285 305 61
+286 370 35
+286 264 41
+287 23 57
+287 62 53
+288 118 30
+288 17 89
+289 38 38
+289 223 43
+290 136 73
+290 7 39
+291 157 49
+291 141 37
+292 95 37
+292 361 38
+293 96 42
+293 101 43
+294 218 38
+294 347 46
+295 212 64
+295 119 41
+296 205 38
+296 105 42
+297 40 37
+297 219 50
+298 303 46
+298 225 75
+299 304 48
+299 60 63
+300 341 46
+300 87 43
+301 88 47
+301 269 35
+302 246 37
+302 366 53
+303 32 41
+303 298 46
+304 33 41
+304 299 48
+305 285 61
+305 229 43
+306 355 33
+306 157 36
+307 215 60
+307 58 31
+308 347 29
+308 338 33
+309 8 58
+309 336 65
+310 375 28
+310 342 67
+311 7 79
+311 129 49
+312 229 64
+312 350 37
+313 219 81
+313 140 47
+314 107 49
+314 343 98
+315 220 80
+315 344 107
+316 369 27
+316 220 35
+317 133 49
+317 203 53
+318 48 60
+318 15 37
+319 15 73
+320 279 37
+320 233 33
+321 100 59
+321 359 23
+322 217 37
+322 238 27
+323 334 47
+323 222 42
+324 128 42
+324 96 52
+325 175 144
+325 353 69
+326 202 112
+326 168 49
+327 132 40
+327 103 44
+328 43 57
+328 275 41
+329 46 46
+329 118 60
+330 222 31
+330 73 46
+331 16 62
+331 135 65
+332 203 40
+332 110 37
+333 208 48
+333 334 32
+334 333 32
+334 323 47
+335 61 28
+335 107 49
+336 309 65
+336 38 35
+337 192 36
+337 268 39
+338 308 33
+338 9 28
+339 142 27
+339 151 93
+340 125 107
+340 143 29
+341 169 54
+341 300 46
+342 310 67
+342 65 41
+343 314 98
+343 32 54
+344 315 107
+344 33 52
+345 149 79
+345 254 75
+346 174 72
+346 358 33
+347 294 46
+347 308 29
+348 232 46
+348 45 43
+349 99 54
+349 154 33
+350 312 37
+350 8 38
+351 85 46
+351 56 59
+352 184 36
+352 244 37
+353 325 69
+353 217 29
+354 230 62
+354 30 24
+355 139 46
+355 306 33
+356 227 38
+356 77 57
+357 247 23
+357 278 59
+358 346 33
+358 99 31
+359 321 23
+359 137 54
+360 80 49
+360 368 47
+361 292 38
+361 208 42
+362 56 75
+362 256 37
+363 365 28
+364 365 28
+364 161 28
+365 363 28
+365 364 28
+366 302 53
+366 204 51
+367 103 30
+367 189 49
+368 360 47
+368 231 40
+369 58 31
+369 316 27
+370 189 35
+370 286 35
+371 158 66
+371 156 46
+372 186 33
+372 53 47
+373 196 37
+374 134 53
+375 165 33
+375 310 28
+7 8 -1
+8 7 -1
+13 14 -1
+14 13 -1
+16 18 -1
+16 17 -1
+17 18 -1
+17 16 -1
+18 16 -1
+18 17 -1
+20 21 -1
+21 20 -1
+22 23 -1
+23 22 -1
+32 33 -1
+33 32 -1
+50 51 -1
+51 50 -1
+55 57 -1
+55 56 -1
+56 57 -1
+56 55 -1
+57 55 -1
+57 56 -1
+59 60 -1
+60 59 -1
+67 69 -1
+67 68 -1
+67 70 -1
+67 71 -1
+68 69 -1
+68 70 -1
+68 71 -1
+68 67 -1
+69 67 -1
+69 70 -1
+69 71 -1
+69 68 -1
+70 71 -1
+70 69 -1
+70 68 -1
+70 67 -1
+71 70 -1
+71 69 -1
+71 68 -1
+71 67 -1
+77 79 -1
+77 78 -1
+78 79 -1
+78 77 -1
+79 77 -1
+79 78 -1
+93 94 -1
+94 93 -1
+95 96 -1
+96 95 -1
+99 100 -1
+100 99 -1
+109 110 -1
+110 109 -1
+115 116 -1
+116 115 -1
+117 118 -1
+118 117 -1
+119 120 -1
+120 119 -1
+121 123 -1
+121 122 -1
+122 123 -1
+122 121 -1
+123 121 -1
+123 122 -1
+124 125 -1
+125 124 -1
+132 133 -1
+133 132 -1
+135 136 -1
+136 135 -1
+137 138 -1
+138 137 -1
+142 144 -1
+142 143 -1
+143 144 -1
+143 142 -1
+144 142 -1
+144 143 -1
+148 149 -1
+149 148 -1
+154 156 -1
+154 155 -1
+155 156 -1
+155 154 -1
+156 154 -1
+156 155 -1
+169 170 -1
+170 169 -1
+175 177 -1
+175 176 -1
+176 177 -1
+176 175 -1
+177 175 -1
+177 176 -1
+191 192 -1
+192 191 -1
+196 197 -1
+197 196 -1
+198 199 -1
+199 198 -1
+202 203 -1
+203 202 -1
+206 208 -1
+206 207 -1
+206 209 -1
+207 208 -1
+207 209 -1
+207 206 -1
+208 206 -1
+208 209 -1
+208 207 -1
+209 208 -1
+209 207 -1
+209 206 -1
+212 214 -1
+212 213 -1
+212 215 -1
+213 214 -1
+213 215 -1
+213 212 -1
+214 212 -1
+214 215 -1
+214 213 -1
+215 214 -1
+215 213 -1
+215 212 -1
+219 220 -1
+220 219 -1
+221 222 -1
+222 221 -1
+223 225 -1
+223 224 -1
+224 225 -1
+224 223 -1
+225 223 -1
+225 224 -1
+227 228 -1
+228 227 -1
+231 232 -1
+232 231 -1
+238 239 -1
+239 238 -1
+242 244 -1
+242 243 -1
+243 244 -1
+243 242 -1
+244 242 -1
+244 243 -1
+245 246 -1
+246 245 -1
+247 248 -1
+248 247 -1
+278 279 -1
+279 278 -1
+281 282 -1
+282 281 -1
+284 285 -1
+285 284 -1
+292 293 -1
+293 292 -1
+295 296 -1
+296 295 -1
+298 299 -1
+299 298 -1
+303 304 -1
+304 303 -1
+309 310 -1
+310 309 -1
+311 313 -1
+311 312 -1
+311 314 -1
+311 315 -1
+312 313 -1
+312 314 -1
+312 315 -1
+312 311 -1
+313 311 -1
+313 314 -1
+313 315 -1
+313 312 -1
+314 315 -1
+314 313 -1
+314 312 -1
+314 311 -1
+315 314 -1
+315 313 -1
+315 312 -1
+315 311 -1
+325 327 -1
+325 326 -1
+326 327 -1
+326 325 -1
+327 325 -1
+327 326 -1
+339 341 -1
+339 340 -1
+340 341 -1
+340 339 -1
+341 339 -1
+341 340 -1
+342 344 -1
+342 343 -1
+343 344 -1
+343 342 -1
+344 342 -1
+344 343 -1
+346 347 -1
+347 346 -1
+354 355 -1
+355 354 -1
+366 367 -1
+367 366 -1
